@@ -1,0 +1,39 @@
+// Menu
+.menu-list {
+  width: 224px;
+
+  .menu-item {
+    margin-left: 0px;
+  }
+}
+
+.small {
+  width: 160px;
+}
+
+.normal {
+  width: 224px;
+}
+
+.large {
+  width: 360px;
+}
+
+.menu-popper {
+  padding-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  background-color: #282828;
+}
+
+// MenuItem
+.menu-item {
+  width: 100%;
+  color: var(--secondary-color);
+  font-size: var(--primary-font-size);
+  background-color: #282828;
+
+  &:hover {
+    background-color: #393737;
+  }
+}
