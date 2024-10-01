@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IPC-project/IPC-project/backendDjango" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IPC-project/IPC-project/loginReact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inventory-management-system-project/inventory-management-system-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/virtual-serial-communication-project/virtual-serial-communication-project" vcs="Git" />
+  </component>
+</project>
